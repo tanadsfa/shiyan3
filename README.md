@@ -1,4 +1,4 @@
-android开发实验二：
+android开发实验三：
 
 利用SimpleAdapter实现如下界面效果:
 
